@@ -13,7 +13,8 @@ import ProfileArray from "./ProfileArray";
 
 const label = {
   headerName: "Hi, my name is Ka Kei",
-  headerRole: "I'm a software engineer.",
+  // headerRole: "I'm a software engineer.",
+  headerRole: "Please note that this site is still under construct with React",
   headerDesc: "Short Description Here.",
 };
 
