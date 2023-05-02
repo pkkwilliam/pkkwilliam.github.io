@@ -3,7 +3,7 @@ import ProfileArray from "./ProfileArray";
 
 const label = {
   about:
-    "I am a Full Stack developer that worked on multiple enterprise scale projects. I love spending time on my work as well as hangout with colleagues. I love to play basketball and remote controlled hobbies.",
+    "I am a Full Stack developer, I have worked on multiple enterprise-scale projects, leveraging my technical expertise to deliver high-quality software products. While I am passionate about my work, I also enjoy spending time with my colleagues and building strong relationships within the team. Outside of work, I enjoy playing basketball and indulging in remote-controlled hobbies, which help me stay balanced and energized.",
 };
 
 export default function About({ color }) {
