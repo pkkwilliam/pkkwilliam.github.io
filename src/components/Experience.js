@@ -52,7 +52,7 @@ export default function Experience({ color }) {
         companyName: "TekSystem (Safeway, Inc.)",
         location: "Vancouver, B.C. Canada",
         duration: "Aug 2022 - Present",
-        position: "Senior Java Developer",
+        position: "Senior Java Engineer",
         items: [
           "Designed and developed reusable modules in the shared library to enable multiple applications within the department to reuse. By extending and overriding parent class and methods, these modules significantly reduced application complexity and increased code reusability. Resulting in faster development cycles and improved application performance.",
           "Leverage Kafka to facilitate communication between different applications, significantly reduce waiting times in the UI and mitigate peak loads of the application. This resulted in a more seamless user experience and improved overall system performance.",
